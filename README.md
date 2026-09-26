@@ -172,3 +172,6 @@ Data is persisted in SQLite by default (or `DATABASE_URL` if set).
 ---
 
 *Strategy Guardian AI — Protection and intelligence for manual traders, without full automation.*
+
+
+- Automated update for PR #303-1790431093-541
